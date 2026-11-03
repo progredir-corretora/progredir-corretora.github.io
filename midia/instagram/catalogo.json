@@ -1,0 +1,249 @@
+{
+ "atualizado": "2026-11-03",
+ "base_url": "https://progredir-corretora.github.io/midia/instagram/",
+ "regra": "Nada daqui vai ao ar sem o revisor-conformidade e a aprovacao do Arthur. Arte com preco precisa de preco conferido antes.",
+ "artes": [
+  {
+   "arquivo": "saude-gs-mei-amarelo.jpg",
+   "tamanho": "1024x1536",
+   "formato": "story (2:3, fora do limite do feed)",
+   "tema": "plano-saude",
+   "operadora": "GS Saude",
+   "preco_na_arte": "R$ 215,49",
+   "nota": "sem logo da Progredir (caixa branca vazia); preferir a 04",
+   "original": "Artes para o Instagram/Plano de Saúde/Arte do GS/GS Empresa MEI.png",
+   "publicado_em": null
+  },
+  {
+   "arquivo": "saude-gs-pf-azul.jpg",
+   "tamanho": "1024x1536",
+   "formato": "story (2:3, fora do limite do feed)",
+   "tema": "plano-saude",
+   "operadora": "GS Saude",
+   "preco_na_arte": "R$ 222,85",
+   "nota": "sem logo da Progredir (caixa branca vazia); preferir a 05",
+   "original": "Artes para o Instagram/Plano de Saúde/Arte do GS/GS pessoa fisica.png",
+   "publicado_em": null
+  },
+  {
+   "arquivo": "saude-story-cotacao-179.jpg",
+   "tamanho": "1080x1920",
+   "formato": "story",
+   "tema": "plano-saude",
+   "operadora": "Amil",
+   "preco_na_arte": "R$ 179,83",
+   "nota": "",
+   "original": "Artes para o Instagram/Plano de Saúde/Artes do Canva/AMIL/Instagram story planos de saúde minimalista azul e branco.jpg",
+   "publicado_em": null
+  },
+  {
+   "arquivo": "saude-amil-179.jpg",
+   "tamanho": "1080x1080",
+   "formato": "feed",
+   "tema": "plano-saude",
+   "operadora": "Amil",
+   "preco_na_arte": "R$ 179",
+   "nota": "",
+   "original": "Artes para o Instagram/Plano de Saúde/Artes do Canva/AMIL/Post do Instagram Melhores Planos de Saúde Moderno Azul.jpg",
+   "publicado_em": null
+  },
+  {
+   "arquivo": "saude-gs-mei-amarelo-progredir.jpg",
+   "tamanho": "1024x1536",
+   "formato": "story (2:3, fora do limite do feed)",
+   "tema": "plano-saude",
+   "operadora": "GS Saude",
+   "preco_na_arte": "R$ 215,49",
+   "nota": "",
+   "original": "Artes para o Instagram/Plano de Saúde/Artes do Canva/GS/Design sem nome (1).png",
+   "publicado_em": null
+  },
+  {
+   "arquivo": "saude-gs-pf-azul-progredir.jpg",
+   "tamanho": "1024x1536",
+   "formato": "story (2:3, fora do limite do feed)",
+   "tema": "plano-saude",
+   "operadora": "GS Saude",
+   "preco_na_arte": "R$ 222,85",
+   "nota": "",
+   "original": "Artes para o Instagram/Plano de Saúde/Artes do Canva/GS/Design sem nome.png",
+   "publicado_em": null
+  },
+  {
+   "arquivo": "saude-gs-individual-222.jpg",
+   "tamanho": "1080x1080",
+   "formato": "feed",
+   "tema": "plano-saude",
+   "operadora": "GS Saude",
+   "preco_na_arte": "R$ 222,85",
+   "nota": "",
+   "original": "Artes para o Instagram/Plano de Saúde/Artes do Canva/GS/Post do instagram sobre plano de saúde moderno em azul.png",
+   "publicado_em": null
+  },
+  {
+   "arquivo": "saude-story-faca-sua-cotacao.jpg",
+   "tamanho": "1080x1920",
+   "formato": "story",
+   "tema": "plano-saude",
+   "operadora": "",
+   "preco_na_arte": "",
+   "nota": "",
+   "original": "Artes para o Instagram/Plano de Saúde/Artes do Canva/Genérico/Faça sua cotação com a gente hoje!.png",
+   "publicado_em": null
+  },
+  {
+   "arquivo": "saude-plano-ideal-operadoras.jpg",
+   "tamanho": "1080x1080",
+   "formato": "feed",
+   "tema": "plano-saude",
+   "operadora": "GS, Amil, Assim, Porto",
+   "preco_na_arte": "",
+   "nota": "",
+   "original": "Artes para o Instagram/Plano de Saúde/Artes do Canva/Genérico/Post Instagram Plano de Saúde Ideal Moderno Azul.png",
+   "publicado_em": null
+  },
+  {
+   "arquivo": "saude-familia.jpg",
+   "tamanho": "1080x1080",
+   "formato": "feed",
+   "tema": "plano-saude",
+   "operadora": "",
+   "preco_na_arte": "",
+   "nota": "",
+   "original": "Artes para o Instagram/Plano de Saúde/Artes do Canva/Genérico/Post do Instagram Plano de Saúde Melhor Opção Moderno Branco.png",
+   "publicado_em": null
+  },
+  {
+   "arquivo": "saude-proteja-sua-saude.jpg",
+   "tamanho": "1080x1080",
+   "formato": "feed",
+   "tema": "plano-saude",
+   "operadora": "",
+   "preco_na_arte": "",
+   "nota": "",
+   "original": "Artes para o Instagram/Plano de Saúde/Artes do Canva/Genérico/Post do Instagram Proteja Sua Saúde Moderno Cinza.png",
+   "publicado_em": null
+  },
+  {
+   "arquivo": "saude-maternidade.jpg",
+   "tamanho": "1080x1080",
+   "formato": "feed",
+   "tema": "plano-saude",
+   "operadora": "",
+   "preco_na_arte": "",
+   "nota": "",
+   "original": "Artes para o Instagram/Plano de Saúde/Artes do Canva/Genérico/Post instagram para plano de saúde profissional azul.png",
+   "publicado_em": null
+  },
+  {
+   "arquivo": "saude-story-confianca.jpg",
+   "tamanho": "1080x1920",
+   "formato": "story",
+   "tema": "plano-saude",
+   "operadora": "",
+   "preco_na_arte": "",
+   "nota": "",
+   "original": "Artes para o Instagram/Plano de Saúde/Artes do Canva/Genérico/Story Instagram Seguradora Simples Azul.png",
+   "publicado_em": null
+  },
+  {
+   "arquivo": "saude-plano-ideal-whatsapp.jpg",
+   "tamanho": "1080x1080",
+   "formato": "feed",
+   "tema": "plano-saude",
+   "operadora": "GS, Amil, Assim, Porto",
+   "preco_na_arte": "",
+   "nota": "quase igual a saude-plano-ideal-operadoras",
+   "original": "Artes para o Instagram/Plano de Saúde/Artes do Canva/Post genérico (sem tefone).png",
+   "publicado_em": null
+  },
+  {
+   "arquivo": "auto-seu-carro-seguro-129.jpg",
+   "tamanho": "1080x1080",
+   "formato": "feed",
+   "tema": "seguro-auto",
+   "operadora": "",
+   "preco_na_arte": "R$ 129,90",
+   "nota": "",
+   "original": "Artes para o Instagram/Seguro AUTO/Branco e verde  seguro automotivo minimalista instagram post.png",
+   "publicado_em": null
+  },
+  {
+   "arquivo": "auto-carro-protegido.jpg",
+   "tamanho": "1080x1080",
+   "formato": "feed",
+   "tema": "seguro-auto",
+   "operadora": "",
+   "preco_na_arte": "",
+   "nota": "",
+   "original": "Artes para o Instagram/Seguro AUTO/Instagram post para corretora de seguros ousado colorido (1).png",
+   "publicado_em": null
+  },
+  {
+   "arquivo": "auto-moto-protegida.jpg",
+   "tamanho": "1080x1080",
+   "formato": "feed",
+   "tema": "seguro-auto",
+   "operadora": "",
+   "preco_na_arte": "",
+   "nota": "",
+   "original": "Artes para o Instagram/Seguro AUTO/Instagram post para corretora de seguros ousado colorido.png",
+   "publicado_em": null
+  },
+  {
+   "arquivo": "auto-coberturas.jpg",
+   "tamanho": "1080x1080",
+   "formato": "feed",
+   "tema": "seguro-auto",
+   "operadora": "",
+   "preco_na_arte": "",
+   "nota": "",
+   "original": "Artes para o Instagram/Seguro AUTO/Post Instagram Seguro de Automóveis Serviços Corretora de Seguro Moderno Azul.png",
+   "publicado_em": null
+  },
+  {
+   "arquivo": "auto-cobertura-total.jpg",
+   "tamanho": "1080x1080",
+   "formato": "feed",
+   "tema": "seguro-auto",
+   "operadora": "",
+   "preco_na_arte": "",
+   "nota": "",
+   "original": "Artes para o Instagram/Seguro AUTO/Post do Instagram para Seguradora de Carro Seguro e Proteção .png",
+   "publicado_em": null
+  },
+  {
+   "arquivo": "auto-garanta-seguranca.jpg",
+   "tamanho": "1080x1350",
+   "formato": "feed",
+   "tema": "seguro-auto",
+   "operadora": "",
+   "preco_na_arte": "",
+   "nota": "",
+   "original": "Artes para o Instagram/Seguro AUTO/Post instagram seguro de carro geométrico em roxo e laranja.png",
+   "publicado_em": null
+  },
+  {
+   "arquivo": "auto-escolha-seguro-certo.jpg",
+   "tamanho": "1080x1350",
+   "formato": "feed",
+   "tema": "seguro-auto",
+   "operadora": "",
+   "preco_na_arte": "",
+   "nota": "",
+   "original": "Artes para o Instagram/Seguro AUTO/Post instagram seguro para carro geométrico em branco e roxo (1).png",
+   "publicado_em": null
+  },
+  {
+   "arquivo": "auto-todos-veiculos.jpg",
+   "tamanho": "1080x1080",
+   "formato": "feed",
+   "tema": "seguro-auto",
+   "operadora": "",
+   "preco_na_arte": "",
+   "nota": "",
+   "original": "Artes para o Instagram/Seguro AUTO/Post para instagram sobre seguro de veículos moderno em azul.png",
+   "publicado_em": null
+  }
+ ]
+}
