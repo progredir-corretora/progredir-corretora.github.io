@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-03",
+ "atualizado": "2026-11-04",
  "base_url": "https://progredir-corretora.github.io/midia/instagram/",
  "regra": "Nada daqui vai ao ar sem o revisor-conformidade e a confirmacao do Kayke ou do Arthur (nunca publica sozinho, nem agendado). Arte com preco precisa de preco conferido antes.",
  "artes": [
@@ -12,7 +12,8 @@
    "preco_na_arte": "R$ 215,49",
    "nota": "sem logo da Progredir (caixa branca vazia); preferir a 04",
    "original": "Artes para o Instagram/Plano de Saúde/Arte do GS/GS Empresa MEI.png",
-   "publicado_em": null
+   "publicado_em": null,
+   "preco_conferido": "2026-11-04 (Kayke)"
   },
   {
    "arquivo": "saude-gs-pf-azul.jpg",
@@ -23,7 +24,8 @@
    "preco_na_arte": "R$ 222,85",
    "nota": "sem logo da Progredir (caixa branca vazia); preferir a 05",
    "original": "Artes para o Instagram/Plano de Saúde/Arte do GS/GS pessoa fisica.png",
-   "publicado_em": null
+   "publicado_em": null,
+   "preco_conferido": "2026-11-04 (Kayke)"
   },
   {
    "arquivo": "saude-story-cotacao-179.jpg",
@@ -34,7 +36,9 @@
    "preco_na_arte": "R$ 179,83",
    "nota": "",
    "original": "Artes para o Instagram/Plano de Saúde/Artes do Canva/AMIL/Instagram story planos de saúde minimalista azul e branco.jpg",
-   "publicado_em": null
+   "publicado_em": null,
+   "preco_conferido": "2026-11-04 (Kayke)",
+   "condicoes": "Amil Bronze RJ+, 0 a 18 anos, quarto coletivo (enfermaria) - condicoes vao na legenda"
   },
   {
    "arquivo": "saude-amil-179.jpg",
@@ -45,7 +49,9 @@
    "preco_na_arte": "R$ 179",
    "nota": "",
    "original": "Artes para o Instagram/Plano de Saúde/Artes do Canva/AMIL/Post do Instagram Melhores Planos de Saúde Moderno Azul.jpg",
-   "publicado_em": null
+   "publicado_em": null,
+   "preco_conferido": "2026-11-04 (Kayke)",
+   "condicoes": "Amil Bronze RJ+, 0 a 18 anos, quarto coletivo (enfermaria) - condicoes vao na legenda"
   },
   {
    "arquivo": "saude-gs-mei-amarelo-progredir.jpg",
@@ -56,7 +62,8 @@
    "preco_na_arte": "R$ 215,49",
    "nota": "",
    "original": "Artes para o Instagram/Plano de Saúde/Artes do Canva/GS/Design sem nome (1).png",
-   "publicado_em": null
+   "publicado_em": null,
+   "preco_conferido": "2026-11-04 (Kayke)"
   },
   {
    "arquivo": "saude-gs-pf-azul-progredir.jpg",
@@ -67,7 +74,8 @@
    "preco_na_arte": "R$ 222,85",
    "nota": "",
    "original": "Artes para o Instagram/Plano de Saúde/Artes do Canva/GS/Design sem nome.png",
-   "publicado_em": null
+   "publicado_em": null,
+   "preco_conferido": "2026-11-04 (Kayke)"
   },
   {
    "arquivo": "saude-gs-individual-222.jpg",
@@ -78,7 +86,8 @@
    "preco_na_arte": "R$ 222,85",
    "nota": "",
    "original": "Artes para o Instagram/Plano de Saúde/Artes do Canva/GS/Post do instagram sobre plano de saúde moderno em azul.png",
-   "publicado_em": null
+   "publicado_em": null,
+   "preco_conferido": "2026-11-04 (Kayke)"
   },
   {
    "arquivo": "saude-story-faca-sua-cotacao.jpg",
@@ -166,7 +175,8 @@
    "preco_na_arte": "R$ 129,90",
    "nota": "",
    "original": "Artes para o Instagram/Seguro AUTO/Branco e verde  seguro automotivo minimalista instagram post.png",
-   "publicado_em": null
+   "publicado_em": null,
+   "preco_conferido": "2026-11-04 (Kayke)"
   },
   {
    "arquivo": "auto-carro-protegido.jpg",
